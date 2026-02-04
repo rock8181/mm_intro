@@ -1,1 +1,9 @@
-
+# _data/authors.yml 예시
+"홍길동":
+  name: "Gildong Hong"
+  bio: "IT Quality QA Lead / Perfectionist"
+  avatar: "/assets/images/team/hong.jpg" # 사진 경로
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com"
